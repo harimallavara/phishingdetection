@@ -5,6 +5,7 @@ ipaddress
 urllib.parse
 tensorflow
 tensorflow.keras
-sklearn
+scikit-learn
 matplotlib
+pickle-mixin
 streamlit
