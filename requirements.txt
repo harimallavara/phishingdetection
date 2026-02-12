@@ -1,11 +1,10 @@
 numpy
 pandas
-re
-ipaddress
-urllib.parse
 tensorflow
-tensorflow.keras
 scikit-learn
 matplotlib
 pickle-mixin
 streamlit
+joblib
+matplotlib
+
