@@ -1,0 +1,10 @@
+numpy
+pandas
+re
+ipaddress
+urllib.parse
+tensorflow
+tensorflow.keras
+sklearn
+matplotlib
+streamlit
